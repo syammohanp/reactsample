@@ -1,8 +1,8 @@
 import React from 'react'
 
-export default function todo({todo}) {
+export default function todo({todo, toggleTodo}) {
     function handlerOnchange(){
-        return
+        toggleTodo(todo.id)
     }
     return (
         <div>
