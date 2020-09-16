@@ -68,10 +68,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-
-Success! Created reactsample at C:\Users\syam.mohanparayil\Zoi\Technical\Sample\reactsample
-Inside that directory, you can run several commands:
-
   yarn start
     Starts the development server.
 
@@ -84,10 +80,3 @@ Inside that directory, you can run several commands:
   yarn eject
     Removes this tool and copies build dependencies, configuration files
     and scripts into the app directory. If you do this, you can’t go back!
-
-We suggest that you begin by typing:
-
-  cd C:\Users\syam.mohanparayil\Zoi\Technical\Sample\reactsample
-  yarn start
-
-Happy hacking!
