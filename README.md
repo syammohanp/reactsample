@@ -1,4 +1,12 @@
+For Reactnative app
+npm install -g create-react-native-app
+create-react-native-app MyReactNative
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+npx create-react-app my-app
+cd my-app
+npm start
 
 ## Available Scripts
 
